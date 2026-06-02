@@ -1,5 +1,7 @@
 # Gym Membership Manager
 
+![GUI](gui.png)
+
 A small Java project demonstrating basic object-oriented design and a simple graphical user interface for managing gym members.
 
 Overview
